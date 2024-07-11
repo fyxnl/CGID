@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="419cc98c-2d20-4002-8cab-c02b5fed0ab6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>squeeze</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xiaobofenjie.py" />
+        <option value="$PROJECT_DIR$/TOENet.py" />
+        <option value="$PROJECT_DIR$/TOENet1.py" />
+        <option value="$PROJECT_DIR$/FSDA_model3.py" />
+        <option value="$USER_HOME$/.conda/envs/pytorch1/Lib/site-packages/torch/autograd/__init__.py" />
+        <option value="$PROJECT_DIR$/TOENet2.py" />
+        <option value="$PROJECT_DIR$/gaussian_loss.py" />
+        <option value="$PROJECT_DIR$/CR.py" />
+        <option value="$PROJECT_DIR$/All-in-one_train.py" />
+        <option value="$PROJECT_DIR$/All-in-one_train2.py" />
+        <option value="$PROJECT_DIR$/TOENet3.py" />
+        <option value="$PROJECT_DIR$/TOENet4.py" />
+        <option value="$PROJECT_DIR$/TOENet5.py" />
+        <option value="$PROJECT_DIR$/TOENet7.py" />
+        <option value="$PROJECT_DIR$/All-in-one_train1.py" />
+        <option value="$PROJECT_DIR$/TOENet6.py" />
+        <option value="$PROJECT_DIR$/SRDO.py" />
+        <option value="$PROJECT_DIR$/TOENet8.py" />
+        <option value="$PROJECT_DIR$/work5.py" />
+        <option value="$PROJECT_DIR$/work5_train.py" />
+        <option value="$PROJECT_DIR$/work6.py" />
+        <option value="$PROJECT_DIR$/TOENet9.py" />
+        <option value="$PROJECT_DIR$/DWGANfeng.py" />
+        <option value="$PROJECT_DIR$/TOENet10.py" />
+        <option value="$PROJECT_DIR$/DWGANfeng1.py" />
+        <option value="$PROJECT_DIR$/All-in-one_train3_weight.py" />
+        <option value="$PROJECT_DIR$/DWGANfeng2.py" />
+        <option value="$PROJECT_DIR$/xiaobofenjie2.py" />
+        <option value="$PROJECT_DIR$/All-in-one_train4_weight.py" />
+        <option value="$PROJECT_DIR$/TOENet_THaze.py" />
+        <option value="$PROJECT_DIR$/TOENet_train_THaze.py" />
+        <option value="$PROJECT_DIR$/DWGANfeng2_noFD.py" />
+        <option value="$PROJECT_DIR$/DWGANfeng2_noFCEM.py" />
+        <option value="$PROJECT_DIR$/DWGANfeng2_noHWA.py" />
+        <option value="$PROJECT_DIR$/DWGANfeng2_noLWA.py" />
+        <option value="$PROJECT_DIR$/DWGANfeng2_noBU.py" />
+        <option value="$PROJECT_DIR$/data_utils2.py" />
+        <option value="$PROJECT_DIR$/option.py" />
+        <option value="$PROJECT_DIR$/transweather_train.py" />
+        <option value="$PROJECT_DIR$/Utils.py" />
+        <option value="$PROJECT_DIR$/TransWeather_test.py" />
+        <option value="$PROJECT_DIR$/../shengduguji/shengduguji.py" />
+        <option value="$PROJECT_DIR$/../shengduguji/test_simple.py" />
+        <option value="$PROJECT_DIR$/work4_traindwgan.py" />
+        <option value="$PROJECT_DIR$/reweight_loss.py" />
+        <option value="$PROJECT_DIR$/LD_model1.py" />
+        <option value="$PROJECT_DIR$/test_code/CGID_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-32" />
+    <option name="y" value="52" />
+    <option name="width" value="1918" />
+    <option name="height" value="897" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\code\CGID\test_code" />
+      <recent name="E:\code2023\work4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.CGID_test">
+    <configuration name="All-in-one_train4_weight" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/All-in-one_train4_weight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CGID_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_code/CGID_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LDmodel1_tpami_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LDmodel1_tpami_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TransWeather_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TransWeather_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shengduguji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lite-Mono-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../shengduguji" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../shengduguji/shengduguji.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CGID_test" />
+        <item itemvalue="Python.LDmodel1_tpami_test" />
+        <item itemvalue="Python.All-in-one_train4_weight" />
+        <item itemvalue="Python.shengduguji" />
+        <item itemvalue="Python.TransWeather_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="419cc98c-2d20-4002-8cab-c02b5fed0ab6" name="Default Changelist" comment="" />
+      <created>1700029676118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700029676118</updated>
+      <workItem from="1700029679210" duration="8073000" />
+      <workItem from="1700093449720" duration="35182000" />
+      <workItem from="1700475670361" duration="203000" />
+      <workItem from="1700475957852" duration="97537000" />
+      <workItem from="1700986540987" duration="47542000" />
+      <workItem from="1701825119146" duration="2625000" />
+      <workItem from="1701829443090" duration="25286000" />
+      <workItem from="1702041824960" duration="596000" />
+      <workItem from="1702514924577" duration="670000" />
+      <workItem from="1702600351481" duration="6531000" />
+      <workItem from="1702989476613" duration="14415000" />
+      <workItem from="1705224029985" duration="16032000" />
+      <workItem from="1709631914707" duration="889000" />
+      <workItem from="1709724850369" duration="1466000" />
+      <workItem from="1710220806635" duration="6835000" />
+      <workItem from="1713962302482" duration="973000" />
+      <workItem from="1713968127003" duration="5334000" />
+      <workItem from="1714034660410" duration="594000" />
+      <workItem from="1714129463511" duration="595000" />
+      <workItem from="1715344881375" duration="4019000" />
+      <workItem from="1716265052277" duration="1557000" />
+      <workItem from="1716861487014" duration="595000" />
+      <workItem from="1716983439943" duration="1321000" />
+      <workItem from="1718630199312" duration="2369000" />
+      <workItem from="1719129584291" duration="310000" />
+      <workItem from="1719129981359" duration="53000" />
+      <workItem from="1720662577236" duration="120000" />
+      <workItem from="1720664697948" duration="35000" />
+      <workItem from="1720664733533" duration="864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="282621000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-32" y="52" width="1918" height="897" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.114639394" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37958115" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39700806" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32992464" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TOENet7.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/work4$work5.coverage" NAME="work5 Coverage Results" MODIFIED="1700985149832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$TransWeather_test.coverage" NAME="TransWeather_test Coverage Results" MODIFIED="1708653859166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$All_in_one_train3_weight.coverage" NAME="All-in-one_train3_weight Coverage Results" MODIFIED="1701568876777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$TOENet3.coverage" NAME="TOENet3 Coverage Results" MODIFIED="1700553090622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$TOENet10.coverage" NAME="TOENet10 Coverage Results" MODIFIED="1700985783691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$TOENet9.coverage" NAME="TOENet9 Coverage Results" MODIFIED="1700985290608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$xiaobofenjie2.coverage" NAME="xiaobofenjie2 Coverage Results" MODIFIED="1702639612099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$TOENet_train_THaze.coverage" NAME="TOENet_train_THaze Coverage Results" MODIFIED="1704191917325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CGID$CGID_test.coverage" NAME="CGID_test Coverage Results" MODIFIED="1720664909671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/work4$DWGANfeng2_noLWA.coverage" NAME="DWGANfeng2_noLWA Coverage Results" MODIFIED="1704331377041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$xiaobofenjie.coverage" NAME="xiaobofenjie Coverage Results" MODIFIED="1702639592892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$DWGANfeng2.coverage" NAME="DWGANfeng2 Coverage Results" MODIFIED="1701830666130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$DWGANfeng1.coverage" NAME="DWGANfeng1 Coverage Results" MODIFIED="1701164224226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$DWGANfeng2_noHWA.coverage" NAME="DWGANfeng2_noHWA Coverage Results" MODIFIED="1704331232017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$LDmodel1_tpami_test.coverage" NAME="LDmodel1_tpami_test Coverage Results" MODIFIED="1719129693768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$TOENet5.coverage" NAME="TOENet5 Coverage Results" MODIFIED="1700617697220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$DWGANfeng.coverage" NAME="DWGANfeng Coverage Results" MODIFIED="1701138456154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$work5_train.coverage" NAME="work5_train Coverage Results" MODIFIED="1700984903757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$TOENet.coverage" NAME="TOENet Coverage Results" MODIFIED="1700442829370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$TOENet2.coverage" NAME="TOENet2 Coverage Results" MODIFIED="1700611292449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$DWGANfeng2_noFD.coverage" NAME="DWGANfeng2_noFD Coverage Results" MODIFIED="1704285792408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$work6.coverage" NAME="work6 Coverage Results" MODIFIED="1700985174423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$All_in_one_train1.coverage" NAME="All-in-one_train1 Coverage Results" MODIFIED="1700729055168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$TOENet1.coverage" NAME="TOENet1 Coverage Results" MODIFIED="1700448702810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$shengduguji.coverage" NAME="shengduguji Coverage Results" MODIFIED="1710224722824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../shengduguji" />
+    <SUITE FILE_PATH="coverage/work4$TOENet4.coverage" NAME="TOENet4 Coverage Results" MODIFIED="1700565922546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$transweather_train.coverage" NAME="transweather_train Coverage Results" MODIFIED="1708250503834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$DWGANfeng2_noBU.coverage" NAME="DWGANfeng2_noBU Coverage Results" MODIFIED="1704331822608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$All_in_one_train.coverage" NAME="All-in-one_train Coverage Results" MODIFIED="1700527837897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work4$All_in_one_train4_weight.coverage" NAME="All-in-one_train4_weight Coverage Results" MODIFIED="1715347025344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DWGANfeng2_noBU.py" />
+    <entry file="file://$PROJECT_DIR$/DWGANfeng2_noLWA.py" />
+    <entry file="file://$PROJECT_DIR$/transweather_model.py" />
+    <entry file="file://$PROJECT_DIR$/coral.py" />
+    <entry file="file://$PROJECT_DIR$/logs_train/ots_train_Dehaze_218_256_TransWeather.txt" />
+    <entry file="file://$PROJECT_DIR$/view_testdata1.py" />
+    <entry file="file://$PROJECT_DIR$/TransWeather_test.py" />
+    <entry file="file://$PROJECT_DIR$/Utils.py" />
+    <entry file="file://$PROJECT_DIR$/transweather_train.py" />
+    <entry file="file://$USER_HOME$/.conda/envs/pytorch1/Lib/site-packages/sklearn/neural_network/_multilayer_perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27459">
+          <caret line="1044" column="8" selection-start-line="1044" selection-start-column="8" selection-end-line="1044" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_40hyp6hnus5922/FileStorage/File/2023-12/luminance statistics(2).py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_40hyp6hnus5922/FileStorage/File/2023-12/luminance statistics(1).py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_40hyp6hnus5922/FileStorage/File/2023-12/nengjiandu(1).py" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_40hyp6hnus5922/FileStorage/File/2023-12/image zoom.py" />
+    <entry file="file://$USER_HOME$/.conda/pkgs/safetensors-0.4.0-py39h0010962_0/info/test/bindings/python/tests/test_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/sota/DCP/DCP-master/new2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/sota/DCP/DCP-master/mytest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work5.py" />
+    <entry file="file://$PROJECT_DIR$/work5_train.py" />
+    <entry file="file://$PROJECT_DIR$/All-in-one_train1.py" />
+    <entry file="file://$PROJECT_DIR$/work4_traindwgan.py" />
+    <entry file="file://$PROJECT_DIR$/sssim_loss.py" />
+    <entry file="file://$PROJECT_DIR$/../shenduguji/shenduguji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9045">
+          <caret line="339" column="28" selection-start-line="339" selection-start-column="28" selection-end-line="339" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LD_train.py" />
+    <entry file="file://$PROJECT_DIR$/data_utils2.py" />
+    <entry file="file://$PROJECT_DIR$/../AEGaunet_train/KA_Net_11.23_flops.py" />
+    <entry file="file://F:/videodehazingcode/ESTI_derain2/code/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7732">
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/videodehazingcode/ESTI_derain2/code/models/block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/videodehazingcode/ESTI_derain2/code/models/backbone_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/videodehazingcode/ESTI_derain2/code/models/densenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All-in-one_train2.py" />
+    <entry file="file://$PROJECT_DIR$/DWGANfeng2.py" />
+    <entry file="file://F:/videodehazingcode/ESTI_derain2/code/models/net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/videodehazingcode/ESTI_derain2/code/models/modules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/videodehazingcode/ESTI_derain2/code/models/refinenet_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All-in-one_train4_weight.py" />
+    <entry file="file://$PROJECT_DIR$/feng_testniu.py" />
+    <entry file="file://$PROJECT_DIR$/LDmodel1_tpami_test.py" />
+    <entry file="file://$PROJECT_DIR$/option.py" />
+    <entry file="file://$PROJECT_DIR$/SRDO.py" />
+    <entry file="file://$PROJECT_DIR$/reweight_loss.py" />
+    <entry file="file://$PROJECT_DIR$/All-in-one_train3_weight.py" />
+    <entry file="file://$PROJECT_DIR$/LD_model1.py" />
+    <entry file="file://F:/videodehazingcode/ESTI_derain2/code/models/R_CLSTM_modules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="164" column="6" selection-start-line="164" selection-start-column="6" selection-end-line="164" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/videodehazingcode/ESTI_derain2/code/models/xiaobofenjie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shenduguji/test_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="27" selection-start-line="27" selection-end-line="30" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_code/view_testdata1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_code/CGID_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="118" column="10" lean-forward="true" selection-start-line="118" selection-start-column="10" selection-end-line="118" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_code/Res2Net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_code/CGID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="388" column="47" selection-start-line="388" selection-start-column="47" selection-end-line="388" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_code/Utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding>
+            <element signature="e#40#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
