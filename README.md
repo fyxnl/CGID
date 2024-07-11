@@ -33,8 +33,7 @@ See more details in [[paper]](https://ieeexplore.ieee.org/document/10557647)
 ## train
 Our train run is simple, It can be trained with slight modifications.
 
-The designed frequency domain network branch.
-![](USfigure/5.png)
+ 
 
 ## Test
 
