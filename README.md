@@ -25,7 +25,7 @@ See more details in [[paper]](https://ieeexplore.ieee.org/document/10557647)
 
 ## Pretrained Weights & Dataset
 
-1. Download [Dehaze weights](https://pan.baidu.com/s/1wP5CziCdza3mluzMEia9Qw ) and Extraction code: [4232]
+1. Download [Dehaze weights](https://pan.baidu.com/s/148ypY9pP85_2XnafF-A-xQ?pwd=cji8) and Extraction code: [cji8]
 2. Load the pre-trained weights [Res2Net](https://pan.baidu.com/s/14JAHqX0xvFTpGXAqVBqMCQ) and Extraction code: [1234]
 3. Our training data will be released once it's sorted out. Data layer generalization can be achieved with our data.
 ![](USfigure/6.png). 
